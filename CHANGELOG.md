@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://www.github.com/googleapis/java-orgpolicy/compare/v1.2.2...v1.3.0) (2021-08-04)
+
+
+### Features
+
+* configure initial sp version ([#222](https://www.github.com/googleapis/java-orgpolicy/issues/222)) ([2ebb503](https://www.github.com/googleapis/java-orgpolicy/commit/2ebb5033f7a4f22bd23203949ef7735ea0c0a867))
+
 ### [1.2.2](https://www.github.com/googleapis/java-orgpolicy/compare/v1.2.1...v1.2.2) (2021-07-01)
 
 
